@@ -11,6 +11,11 @@ C:\Users\mmo\dev\azure\azure-101\SpeedTestLogger\obj\Debug\netcoreapp3.1\SpeedTe
 C:\Users\mmo\dev\azure\azure-101\SpeedTestLogger\obj\Debug\netcoreapp3.1\SpeedTestLogger.pdb
 C:\Users\mmo\dev\azure\azure-101\SpeedTestLogger\bin\Debug\netcoreapp3.1\SpeedTest.dll
 C:\Users\mmo\dev\azure\azure-101\SpeedTestLogger\obj\Debug\netcoreapp3.1\SpeedTestLogger.csproj.CopyComplete
-C:\Users\mmo\dev\azure\azure-101\SpeedTestLogger\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\mmo\dev\azure\azure-101\SpeedTestLogger\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\mmo\dev\azure\azure-101\SpeedTestLogger\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\mmo\dev\azure\azure-101\SpeedTestLogger\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\mmo\dev\azure\azure-101\SpeedTestLogger\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\mmo\dev\azure\azure-101\SpeedTestLogger\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\mmo\dev\azure\azure-101\SpeedTestLogger\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\mmo\dev\azure\azure-101\SpeedTestLogger\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
 C:\Users\mmo\dev\azure\azure-101\SpeedTestLogger\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
-C:\Users\mmo\dev\azure\azure-101\SpeedTestLogger\bin\Debug\netcoreapp3.1\Microsoft.Net.Http.Headers.dll
