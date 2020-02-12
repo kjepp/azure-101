@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mmo\\dev\\azure\\azure-101\\SpeedTestLogger\\SpeedTestLogger.csproj": {}
+    "C:\\Users\\mmo\\dev\\azure\\azure-speedtest-logger\\SpeedTestLogger\\SpeedTestLogger.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mmo\\dev\\azure\\azure-101\\SpeedTestLogger\\SpeedTestLogger.csproj": {
+    "C:\\Users\\mmo\\dev\\azure\\azure-speedtest-logger\\SpeedTestLogger\\SpeedTestLogger.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mmo\\dev\\azure\\azure-101\\SpeedTestLogger\\SpeedTestLogger.csproj",
+        "projectUniqueName": "C:\\Users\\mmo\\dev\\azure\\azure-speedtest-logger\\SpeedTestLogger\\SpeedTestLogger.csproj",
         "projectName": "SpeedTestLogger",
-        "projectPath": "C:\\Users\\mmo\\dev\\azure\\azure-101\\SpeedTestLogger\\SpeedTestLogger.csproj",
+        "projectPath": "C:\\Users\\mmo\\dev\\azure\\azure-speedtest-logger\\SpeedTestLogger\\SpeedTestLogger.csproj",
         "packagesPath": "C:\\Users\\mmo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mmo\\dev\\azure\\azure-101\\SpeedTestLogger\\obj\\",
+        "outputPath": "C:\\Users\\mmo\\dev\\azure\\azure-speedtest-logger\\SpeedTestLogger\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mmo\\AppData\\Roaming\\NuGet\\NuGet.Config"

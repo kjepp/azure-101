@@ -7,7 +7,6 @@ using SpeedTestLogger.Models;
 
 namespace SpeedTestLogger {
     public class SpeedTestRunner {
-        // Code continues here
         private readonly SpeedTestClient _client;
         private readonly Settings _settings;
         private readonly RegionInfo _location;
@@ -46,7 +45,7 @@ namespace SpeedTestLogger {
                     Host = server.Host,
                     Latitude = server.Latitude,
                     Longitude = server.Longitude,
-            // What are we going to do with this? Country = GetISORegionNameFromEnglishName(server.Country),
+                    Country = GetISORegionNameFromEnglishName(server.Country),
                     Distance = server.Distance,
                     Ping = server.Latency,
                     Id = server.Id
