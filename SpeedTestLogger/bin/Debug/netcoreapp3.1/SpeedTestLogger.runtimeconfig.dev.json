@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\mmo\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\mmo\\.nuget\\packages"
+    ]
+  }
+}

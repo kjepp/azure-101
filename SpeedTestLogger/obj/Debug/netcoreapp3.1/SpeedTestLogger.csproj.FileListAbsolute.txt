@@ -1,0 +1,16 @@
+C:\Users\mmo\dev\azure\azure-101\SpeedTestLogger\bin\Debug\netcoreapp3.1\SpeedTestLogger.exe
+C:\Users\mmo\dev\azure\azure-101\SpeedTestLogger\bin\Debug\netcoreapp3.1\SpeedTestLogger.deps.json
+C:\Users\mmo\dev\azure\azure-101\SpeedTestLogger\bin\Debug\netcoreapp3.1\SpeedTestLogger.runtimeconfig.json
+C:\Users\mmo\dev\azure\azure-101\SpeedTestLogger\bin\Debug\netcoreapp3.1\SpeedTestLogger.runtimeconfig.dev.json
+C:\Users\mmo\dev\azure\azure-101\SpeedTestLogger\bin\Debug\netcoreapp3.1\SpeedTestLogger.dll
+C:\Users\mmo\dev\azure\azure-101\SpeedTestLogger\bin\Debug\netcoreapp3.1\SpeedTestLogger.pdb
+C:\Users\mmo\dev\azure\azure-101\SpeedTestLogger\obj\Debug\netcoreapp3.1\SpeedTestLogger.csprojAssemblyReference.cache
+C:\Users\mmo\dev\azure\azure-101\SpeedTestLogger\obj\Debug\netcoreapp3.1\SpeedTestLogger.AssemblyInfoInputs.cache
+C:\Users\mmo\dev\azure\azure-101\SpeedTestLogger\obj\Debug\netcoreapp3.1\SpeedTestLogger.AssemblyInfo.cs
+C:\Users\mmo\dev\azure\azure-101\SpeedTestLogger\obj\Debug\netcoreapp3.1\SpeedTestLogger.dll
+C:\Users\mmo\dev\azure\azure-101\SpeedTestLogger\obj\Debug\netcoreapp3.1\SpeedTestLogger.pdb
+C:\Users\mmo\dev\azure\azure-101\SpeedTestLogger\bin\Debug\netcoreapp3.1\SpeedTest.dll
+C:\Users\mmo\dev\azure\azure-101\SpeedTestLogger\obj\Debug\netcoreapp3.1\SpeedTestLogger.csproj.CopyComplete
+C:\Users\mmo\dev\azure\azure-101\SpeedTestLogger\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\mmo\dev\azure\azure-101\SpeedTestLogger\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\mmo\dev\azure\azure-101\SpeedTestLogger\bin\Debug\netcoreapp3.1\Microsoft.Net.Http.Headers.dll
